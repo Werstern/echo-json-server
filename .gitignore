@@ -1,0 +1,5 @@
+#Node
+node_modules/
+
+#ignored files
+package-lock.json
